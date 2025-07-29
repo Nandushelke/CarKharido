@@ -14,7 +14,7 @@ public class EmailUtil {
         String from = "carkharido4140@gmail.com";
         String host = "smtp.gmail.com";
         final String username = "carkharido4140@gmail.com";
-        final String password = "dwgb jhln pqsj tnll";  // Use App Password if 2FA is enabled
+        final String password = "";  // Use App Password if 2FA is enabled
 
         Properties properties = new Properties();
         properties.put("mail.smtp.host", host);
